@@ -11,11 +11,8 @@ package tarea4_jesus_salva;
  */
 public class Tarea4_Jesus_Salva {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    String nombre;
+    int edad;
+    
     
 }
