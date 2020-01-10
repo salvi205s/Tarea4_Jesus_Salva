@@ -13,6 +13,16 @@ public class Tarea4_Jesus_Salva {
 
     String nombre;
     int edad;
+
+    public Tarea4_Jesus_Salva(String nombre, int edad) {
+        this.nombre = nombre;
+        this.edad = edad;
+    }
+    
+       public Tarea4_Jesus_Salva() {
+        this.nombre = "Salvisus";
+        this.edad = 58; //Entre los dos
+    }
     
     
 }
