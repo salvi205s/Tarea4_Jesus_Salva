@@ -39,6 +39,11 @@ public class Tarea4_Jesus_Salva {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+
+    @Override
+    public String toString() {
+        return "Tarea4_Jesus_Salva{" + "nombre=" + nombre + ", edad=" + edad + '}';
+    }
     
        
     
